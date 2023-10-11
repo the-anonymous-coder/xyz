@@ -1,0 +1,8 @@
+{"file_name": "20231011094525276_638326143255307091_EEPPiagI - Copy (10).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Anju Devi\", \"sex\": \"FEMALE\", \"date of birth\": \"1/1/1986\"}}"}
+{"file_name": "aadhaar-5.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Devika\", \"sex\": \"FEMALE\", \"date of birth\": \"10/23/2011\"}}"}
+{"file_name": "aadhaar-9 - Copy.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Gayatri Singh\", \"sex\": \"FEMALE\", \"date of birth\": \"5/5/1995\"}}"}
+{"file_name": "aadhaar-7.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Dilkhush Meena\", \"sex\": \"Male\", \"date of birth\": \"1998\"}}"}
+{"file_name": "c69b7f40144bf1cd4051251754af93ed - Copy (7).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Fahad Khan\", \"sex\": \"Male\", \"date of birth\": \"8/8/1998\"}}"}
+{"file_name": "aadhaar-6 - Copy.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Rupesh Singare\", \"sex\": \"Male\", \"date of birth\": \"1/27/2000\"}}"}
+{"file_name": "c69b7f40144bf1cd4051251754af93ed - Copy (4).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Fahad Khan\", \"sex\": \"Male\", \"date of birth\": \"8/8/1998\"}}"}
+{"file_name": "aadhaar-8 - Copy.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Gaurav Kumar\", \"sex\": \"Male\", \"date of birth\": \"1991\"}}"}

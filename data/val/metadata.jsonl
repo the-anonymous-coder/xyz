@@ -1,0 +1,16 @@
+{"file_name": "aadhaar-14.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Bayyapu Reddy Jyoshna\", \"sex\": \"FEMALE\", \"date of birth\": \"7/20/1991\"}}"}
+{"file_name": "aadhaar-1 - Copy.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Mehboob Rajput\", \"sex\": \"Male\", \"date of birth\": \"3/23/1981\"}}"}
+{"file_name": "aadhaar-5 - Copy.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Devika\", \"sex\": \"FEMALE\", \"date of birth\": \"10/23/2011\"}}"}
+{"file_name": "20231011094525276_638326143255307091_EEPPiagI - Copy (7).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Anju Devi\", \"sex\": \"FEMALE\", \"date of birth\": \"1/1/1986\"}}"}
+{"file_name": "20231011094236289_638326141565393909_TVli4e4Y - Copy - Copy.jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Ramavatar\", \"sex\": \"Male\", \"date of birth\": \"1/1/1983\"}}"}
+{"file_name": "20231011094108048_638326140682990971_c2MEa9Ly - Copy.jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Lokesh\", \"sex\": \"Male\", \"date of birth\": \"1988\"}}"}
+{"file_name": "20231011094525276_638326143255307091_EEPPiagI - Copy (19).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Anju Devi\", \"sex\": \"FEMALE\", \"date of birth\": \"1/1/1986\"}}"}
+{"file_name": "c69b7f40144bf1cd4051251754af93ed - Copy (5).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Fahad Khan\", \"sex\": \"Male\", \"date of birth\": \"8/8/1998\"}}"}
+{"file_name": "aadhaar-8 - Copy - Copy.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Gaurav Kumar\", \"sex\": \"Male\", \"date of birth\": \"1991\"}}"}
+{"file_name": "20231011094525276_638326143255307091_EEPPiagI - Copy (3).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Anju Devi\", \"sex\": \"FEMALE\", \"date of birth\": \"1/1/1986\"}}"}
+{"file_name": "aadhaar-11.jpeg", "ground_truth": "{\"gt_parse\": {\"name\": \"Yarmsani Avinash Kumar\", \"sex\": \"MALE\", \"date of birth\": \"11/20/1990\"}}"}
+{"file_name": "20231011094525276_638326143255307091_EEPPiagI - Copy (9).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Anju Devi\", \"sex\": \"FEMALE\", \"date of birth\": \"1/1/1986\"}}"}
+{"file_name": "20231011094525276_638326143255307091_EEPPiagI - Copy (8).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Anju Devi\", \"sex\": \"FEMALE\", \"date of birth\": \"1/1/1986\"}}"}
+{"file_name": "2-23-1 - Copy.jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Riteish Vilasrao Deshmukh\", \"sex\": \"Male\", \"date of birth\": \"1977\"}}"}
+{"file_name": "c69b7f40144bf1cd4051251754af93ed - Copy (6).jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Fahad Khan\", \"sex\": \"Male\", \"date of birth\": \"8/8/1998\"}}"}
+{"file_name": "a1e3125efaa4eebd8efc907ae48b69a1.jpg", "ground_truth": "{\"gt_parse\": {\"name\": \"Nirmla Bai\", \"sex\": \"Female\", \"date of birth\": \"7/5/1990\"}}"}
